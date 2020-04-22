@@ -2,6 +2,8 @@ The Rainbow and Unicorn
 Yellow
 Black 
 Red
+White
+White
 Orange
 Green
 Purple
